@@ -1,0 +1,17 @@
+{
+  "name": "GustaFood",
+  "displayName": "GustaFood",
+  "expo": {
+    "name": "GustaFood",
+    "slug": "GustaFood",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
